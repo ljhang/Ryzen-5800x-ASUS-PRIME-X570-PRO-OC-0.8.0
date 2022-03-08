@@ -14,6 +14,9 @@ OpenCore 0.7.8 with Monterey 12.2 EFI.
 ## 功能
 - [x] 有线网络
 - [x] 声音
+-  [x]  H264
+-  [x]  HEVC
+
 
 ## 参考
 * 感谢`whidy`开源，[参考他的EFI链接](https://github.com/whidy/ASUS-PRIME-X570-PRO-Hackintosh)
